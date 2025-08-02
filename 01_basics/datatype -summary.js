@@ -51,7 +51,7 @@ let myYoutubename= "Kartikumale@gmail.com"
 
 let anothername = myYoutubename
 anothername = "ayushphotbhare"
-
+console.log("Kartik")
 console.log(myYoutubename);
 console.log(anothername);
 
